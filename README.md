@@ -1,6 +1,6 @@
 # Geophysical Data Clustering in the Gawler Craton
 
-[![DOI](https://zenodo.org/badge/795297768.svg)](https://zenodo.org/doi/10.5281/zenodo.13329041)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13329211.svg)](https://doi.org/10.5281/zenodo.13329211)
 
 This repository contains the notebooks and scripts necessary to reproduce the results presented in a paper currently under review by Shirmard et al. These tools allow users to generate clustered maps using magnetic and gravity data from the Gawler Craton.
 
